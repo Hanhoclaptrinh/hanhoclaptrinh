@@ -23,7 +23,7 @@
 </td>
 
 <td width="45%" valign="top">
-  <img src="https://avatars.githubusercontent.com/[YOUR_USERNAME]" alt="Profile" width="100%" style="border-radius: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/hanhoclaptrinh" alt="Profile" width="100%" style="border-radius: 10px;"/>
 </td>
 
 </tr>
