@@ -31,5 +31,10 @@
 
 
 <p align="center">
-<img src="https://metrics.lecoq.io/hanhoclaptrinh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FHo_Chi_Minh" alt="GitHub Metrics" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanhoclaptrinh&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanhoclaptrinh&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanhoclaptrinh&theme=tokyonight" alt="Streak" width="95%" />
 </p>
