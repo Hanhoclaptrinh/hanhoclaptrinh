@@ -1,6 +1,4 @@
 # 大家好！我叫黎永欣
-# 老子是你的爹
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=欣欣来了&fontSize=70" width="100%" />
